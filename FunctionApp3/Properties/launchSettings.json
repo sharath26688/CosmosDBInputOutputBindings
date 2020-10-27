@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FunctionApp3": {
+      "commandName": "Project",
+      "commandLineArgs": "start --verbose",
+      "sqlDebugging": true,
+      "nativeDebugging": true
+    }
+  }
+}
