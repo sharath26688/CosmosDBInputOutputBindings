@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "CosmosDBConnection": "AccountEndpoint=https://testcovid.documents.azure.com:443/;AccountKey=qGL3TAOOcZyCSS3jtKgfHsvx6vFYH4lGcMzwpYNnqB1G88wgnHxBnT5K907iwfIDsEF05E5GpxxYmJXS8EHyCA==;"
+  },
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "*",
+    "CORSCredentials": false
+  },
+  "ConnectionStrings": {
+    "CosmosDBConnection": "AccountEndpoint=https://testcovid.documents.azure.com:443/;AccountKey=qGL3TAOOcZyCSS3jtKgfHsvx6vFYH4lGcMzwpYNnqB1G88wgnHxBnT5K907iwfIDsEF05E5GpxxYmJXS8EHyCA==;"
+    //"ConnectionString": "AccountEndpoint=https://tshajtable.table.cosmos.azure.com:443/;AccountKey=qqG1gxlQys5DUATXtoPBG0ASL6wL7I1IUBSscQwqzpRe0R5l3FcbL5OJMUhCvvYgCIosOG66b91EMBwtuu6Qkg==;"
+  }
+}
